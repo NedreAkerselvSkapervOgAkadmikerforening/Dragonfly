@@ -24,3 +24,6 @@ Generelt er det slik at jo mer kraft en servo har, desto tregere og/eller tyngre
 
 ## Kandidater
 [Bluebird](https://www.blue-bird-model.com/products/17_24.htm?pg=1) ser ut til å ha mye fint + lafayett og jacob bruker den i sine raketter.
+
+## Konklusjon
+Bluebird BMS 127WV+ er blitt valgt da den har god torque, er rask, lett og koster ikke så mye.
