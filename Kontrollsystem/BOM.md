@@ -10,7 +10,7 @@
 ## Skruer
 ### Servo mounting
 - 16 stk M2x6 (montering av selve servoen)
-- 4 stk M3x6 + threaded inserts* (montering av top plate)
+- 4 stk M3x8 + threaded inserts* (montering av top plate)
 - 4 stk M3x4 (montering av servoarm)
 ### Generell bunn
 - 4 stk M3x8 + threaded inserts* (festing av cover slit)
