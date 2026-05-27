@@ -1,4 +1,7 @@
 # Dragonfly
+
+![Logo](assets/logo.png)
+
 Dragonfly er NASAs nyeste rakketsatsning, med mål om å skape en modulær,  vedvarende raketmodell.
 
 Dragonfly kan overordnet sett inndeles i fire hovedsystemer:
